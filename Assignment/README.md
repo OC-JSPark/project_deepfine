@@ -9,7 +9,9 @@ AI NLP, Vision 모델 각 1개를 선정하여 파인튜닝 후 학습된 모델
 5. 파인튜닝 후 모델 성능이 반드시 높을 필요는 없습니다.
 
 -> Assignment1 / vision
+
 -> Assignment1 / nlp
+
     * issue) local pc docker hub error로인한 최종 test 미확인.
     
 ## Assignment 2
